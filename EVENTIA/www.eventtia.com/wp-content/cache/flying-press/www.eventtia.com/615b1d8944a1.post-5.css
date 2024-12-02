@@ -1,0 +1,117 @@
+.elementor-kit-5 {
+    --e-global-color-primary: #131314;
+    --e-global-color-secondary: #FFFFFF;
+    --e-global-color-text: #111111;
+    --e-global-color-accent: #6453E7;
+    --e-global-color-d89d5ef: #3E2E92;
+    --e-global-color-439515c: #67C0B6;
+    --e-global-color-d76616b: #131314;
+    --e-global-color-3a59d93: #FFFFFF;
+    --e-global-typography-primary-font-family: "Nunito";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Nunito";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Nunito";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Nunito";
+    --e-global-typography-accent-font-weight: 500;
+    font-family: "Nunito", Sans-serif
+}
+
+.elementor-kit-5 a {
+    font-family: "Nunito", Sans-serif
+}
+
+.elementor-kit-5 a:hover {
+    font-family: "Nunito", Sans-serif
+}
+
+.elementor-kit-5 h1 {
+    font-family: "Blatant", Sans-serif
+}
+
+.elementor-kit-5 h2 {
+    color: #6E2585;
+    font-family: "Lato", Sans-serif;
+    font-size: 32px;
+    font-weight: 700
+}
+
+.elementor-kit-5 h3 {
+    color: #6E2585;
+    font-family: "Nunito", Sans-serif;
+    font-size: 18px;
+    font-weight: 400
+}
+
+.elementor-kit-5 h4 {
+    font-family: "Nunito", Sans-serif
+}
+
+.elementor-kit-5 h5 {
+    font-family: "Nunito", Sans-serif
+}
+
+.elementor-kit-5 h6 {
+    font-family: "Nunito", Sans-serif
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1140px
+}
+
+.e-con {
+    --container-max-width: 1140px
+}
+
+.elementor-widget:not(:last-child) {
+    margin-block-end: 20px
+}
+
+.elementor-element {
+    --widgets-spacing: 20px 20px
+}
+
+{}
+
+h1.entry-title {
+    display: var(--page-title-display)
+}
+
+.elementor-kit-5 e-page-transition {
+    background-color: #FFBC7D
+}
+
+@media(max-width:1024px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 1024px
+    }
+    .e-con {
+        --container-max-width: 1024px
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 767px
+    }
+    .e-con {
+        --container-max-width: 767px
+    }
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Blatant';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://www.eventtia.com/wp-content/uploads/2022/08/Blatant.woff) format('woff'), url(https://www.eventtia.com/wp-content/uploads/2022/08/Blatant.ttf) format('truetype')
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Blatant';
+    font-style: normal;
+    font-weight: 700;
+    src: url(https://www.eventtia.com/wp-content/uploads/2022/08/Blatant-Bold.woff) format('woff'), url(https://www.eventtia.com/wp-content/uploads/2022/08/Blatant-Bold.ttf) format('truetype')
+}

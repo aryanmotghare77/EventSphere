@@ -1,0 +1,1 @@
+data:text/javascript,%0A%09var%20dataLayer_content%20%3D%20%7B%22pagePostType%22%3A%22page%22%2C%22pagePostType2%22%3A%22single-page%22%2C%22pagePostAuthor%22%3A%22tech%40www.eventtia.com%22%7D%3B%0A%09dataLayer.push%28%20dataLayer_content%20%29%3B%0A

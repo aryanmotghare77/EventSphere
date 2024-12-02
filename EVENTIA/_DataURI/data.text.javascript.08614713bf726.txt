@@ -1,0 +1,1 @@
+data:text/javascript,%0A%2F%2A%20%3C%21%5BCDATA%5B%20%2A%2F%0Awp.i18n.setLocaleData%28%20%7B%20%27text%20direction%5Cu0004ltr%27%3A%20%5B%20%27ltr%27%20%5D%20%7D%20%29%3B%0A%2F%2A%20%5D%5D%3E%20%2A%2F%0A

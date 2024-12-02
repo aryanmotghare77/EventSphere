@@ -1,0 +1,126 @@
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d {
+    width: auto;
+    max-width: auto;
+    z-index: 500
+}
+
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-menu-toggle {
+    margin: 0 auto
+}
+
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu .elementor-item {
+    font-family: "Nunito", Sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0
+}
+
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--main .elementor-item {
+    color: #FFF;
+    fill: #FFF
+}
+
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--main .elementor-item:hover,
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--main .elementor-item:focus {
+    color: #747474;
+    fill: #747474
+}
+
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: #747474
+}
+
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--dropdown a,
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-menu-toggle {
+    color: #FFF
+}
+
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--dropdown {
+    background-color: #282828
+}
+
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--dropdown a:hover,
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--dropdown a.elementor-item-active,
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--dropdown a.highlighted,
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-menu-toggle:hover {
+    color: #111
+}
+
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--dropdown a:hover,
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--dropdown a.elementor-item-active,
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--dropdown a.highlighted {
+    background-color: #FFF
+}
+
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--dropdown a.elementor-item-active {
+    color: #747474;
+    background-color: #FFF
+}
+
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--dropdown .elementor-item,
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--dropdown .elementor-sub-item {
+    font-family: "Nunito", Sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0
+}
+
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--main .elementor-nav-menu--dropdown,
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu__container.elementor-nav-menu--dropdown {
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, .5)
+}
+
+.pll-parent-menu-item img {
+    max-height: 20px;
+    max-width: 20px
+}
+
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .elementor-nav-menu--dropdown img {
+    display: none
+}
+
+.sub-menu-toggle {
+    display: none
+}
+
+.elementor-2186 .elementor-element.elementor-element-50bac60 .elementor-nav-menu--main .elementor-nav-menu--dropdown,
+.elementor-2186 .elementor-element.elementor-element-50bac60 .elementor-nav-menu__container.elementor-nav-menu--dropdown {
+    box-shadow: 0 8px 16px 0 rgb(0 0 0 / 20%)
+}
+
+.elementor-27403 .elementor-element.elementor-element-0c5ce3d .has-submenu:hover {
+    cursor: pointer
+}
+
+@media only screen and (max-width:1470px) {
+    .elementor-27403 .elementor-element.elementor-element-0c5ce3d a {
+        padding-left: 6px;
+        padding-right: 6px
+    }
+    .elementor-27403 .elementor-element.elementor-element-0c5ce3d a:hover,
+    .elementor-27403 .elementor-element.elementor-element-0c5ce3d a:active,
+    .elementor-27403 .elementor-element.elementor-element-0c5ce3d a:focus {
+        padding-left: 6px;
+        padding-right: 6px
+    }
+}
+
+@media only screen and (max-width:1120px) {
+    .elementor-27403 .elementor-element.elementor-element-0c5ce3d a {
+        font-size: 16px !important
+    }
+}
+
+img {
+    pointer-events: none
+}
+
+.elementor-27403 .language-switch.no-arrow {
+    pointer-events: none
+}
+
+.elementor-27403 .language-switch.no-arrow::after {
+    content: unset !important
+}

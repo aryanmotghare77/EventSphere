@@ -1,0 +1,1 @@
+data:text/javascript,%0Awindow.addEventListener%28%27elementor%2Ffrontend%2Finit%27%2C%20function%28%29%20%7B%0AelementorFrontend.hooks.addFilter%28%20%27frontend%2Fhandlers%2Fmenu_anchor%2Fscroll_top_distance%27%2C%20function%28%20scrollTop%20%29%20%7B%0Areturn%20scrollTop%20-%20100%3B%0A%7D%20%29%3B%0A%7D%20%29%3B%0A
